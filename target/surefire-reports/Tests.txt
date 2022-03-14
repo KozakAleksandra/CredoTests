@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: Tests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 6.444 sec <<< FAILURE!
+Filtrowanie(Tests)  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Tests.Filtrowanie(Tests.java:98)
+
+Gallery(Tests)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Tests.Gallery(Tests.java:83)
+
+Logowanie(Tests)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Tests.Logowanie(Tests.java:29)
+
+NiepoprawneHaslo(Tests)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Tests.NiepoprawneHaslo(Tests.java:40)
+
+NiepoprawnyLogin(Tests)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Tests.NiepoprawnyLogin(Tests.java:52)
+
+Wylogowywanie(Tests)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Tests.Wylogowywanie(Tests.java:66)
+
